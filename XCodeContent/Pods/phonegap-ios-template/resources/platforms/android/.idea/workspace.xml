@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fdf324a-cebd-445d-8ebf-7fd6eca5645c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/AreaWall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/AreaWall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/AvatarScream.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/AvatarScream.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/AvatarWalk.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/AvatarWalk.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/BackButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/BackButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/BossLaugh.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/BossLaugh.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/BoxPush.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/BoxPush.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/CannibalAttack.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/CannibalAttack.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/CannibalScream.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/CannibalScream.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/CannibalWalk.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/CannibalWalk.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../CannibowlCityPhoneGap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/Credits.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/Credits.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/CreditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/buttons/CreditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/CreditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/buttons/CreditsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/Eating.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/Eating.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/EnterContainer.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/EnterContainer.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/GameOver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/GameOver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/Health.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/Health.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/HealthContainer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/HealthContainer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/HorrorMusic_Main.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/HorrorMusic_Main.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/Hunger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/Hunger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/HungerContainer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/HungerContainer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/Instruction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/Instruction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/InstructionButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/InstructionButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/buttons/InstructionsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/buttons/InstructionsButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/MenuButtonBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/MenuButtonBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/MenuButtonRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/MenuButtonRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/NotePickUp.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/NotePickUp.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/Quiet_Death.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/Quiet_Death.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/RestartButtonBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/RestartButtonBlack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/RestartButtonRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/RestartButtonRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/StartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/buttons/StartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/StartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/buttons/StartButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/StartScreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/StartScreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/SuspenseAction_Boss.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/SuspenseAction_Boss.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/audio/TemptingFate_Credits.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/audio/TemptingFate_Credits.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/Victory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/Victory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/avatarset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/avatarset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/bossset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/bossset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/boxempty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/boxempty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/boxeyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/boxeyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/bread.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/bread.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/cannibal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/cannibal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/canniset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/canniset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/bada/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/tizen/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/windows-phone/icon-173-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/android/icon-36-ldpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/android/icon-48-mdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/bada-wac/icon-48-type5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/windows-phone/icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/bada-wac/icon-50-type3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/ios/icon-57-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/ios/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/windows-phone/icon-62-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/webos/icon-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/ios/icon-72-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/android/icon-72-hdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/ios/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/bada-wac/icon-80-type4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/blackberry/icon-80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/blackberry10/icon-80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/res/icon/android/icon-96-xhdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/ladder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/ladder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/meat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/meat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/note6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/note6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/platform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/platform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/scroll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/scroll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/trashcanempty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/trashcanempty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/trashcaneyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/trashcaneyes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/img/wall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/img/wall.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/www/Acceleration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-device-motion/www/Acceleration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-device-motion/www/Acceleration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Avatar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Avatar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Boss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Boss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/BoxInteraction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/BoxInteraction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../iOSTest.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDV.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/src/ios/CDVAccelerometer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/src/ios/CDVAccelerometer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVAppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVAppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/src/ios/CDVAssetLibraryFilesystem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/src/ios/CDVAssetLibraryFilesystem.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVAvailability.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVAvailabilityDeprecated.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/CDVCamera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/CDVCamera.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/src/ios/CDVCapture.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/src/ios/CDVCapture.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVCommandDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVCommandDelegateImpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVCommandDelegateImpl.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVCommandQueue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVCommandQueue.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/src/ios/CDVCompass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/src/ios/CDVCompass.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVConfigParser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVConfigParser.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/src/ios/CDVConnection.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/src/ios/CDVConnection.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/src/ios/CDVContact.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/src/ios/CDVContact.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/src/ios/CDVContacts.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/src/ios/CDVContacts.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/CDVDebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/src/ios/CDVDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/src/ios/CDVDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/CDVExif.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/src/ios/CDVFile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/src/ios/CDVFile.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/src/ios/CDVFileTransfer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/src/ios/CDVFileTransfer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVGestureHandler/CDVGestureHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVGestureHandler/CDVGestureHandler.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/src/ios/CDVGlobalization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/src/ios/CDVGlobalization.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVHandleOpenURL/CDVHandleOpenURL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVHandleOpenURL/CDVHandleOpenURL.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/src/ios/CDVInAppBrowser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/src/ios/CDVInAppBrowser.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVIntentAndNavigationFilter/CDVIntentAndNavigationFilter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVIntentAndNavigationFilter/CDVIntentAndNavigationFilter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVInvokedUrlCommand.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVInvokedUrlCommand.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/CDVJSON_private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/CDVJSON_private.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/CDVJpegHeaderWriter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/CDVJpegHeaderWriter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/src/ios/CDVLocalFilesystem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/src/ios/CDVLocalFilesystem.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVLocalStorage/CDVLocalStorage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVLocalStorage/CDVLocalStorage.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/src/ios/CDVLocation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/src/ios/CDVLocation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/src/ios/CDVLogger.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/src/ios/CDVLogger.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/CDVPlugin+Private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVPlugin+Resources.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVPlugin+Resources.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVPlugin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVPlugin.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVPluginResult.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVPluginResult.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/src/ios/CDVReachability.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/src/ios/CDVReachability.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVScreenOrientationDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/src/ios/CDVSplashScreen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/src/ios/CDVSplashScreen.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/src/ios/CDVStatusBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/src/ios/CDVStatusBar.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVTimer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVTimer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewEngine.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewEngine.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewNavigationDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Private/Plugins/CDVUIWebViewEngine/CDVUIWebViewNavigationDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVURLProtocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVURLProtocol.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVUserAgentUtil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVUserAgentUtil.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/src/ios/CDVVibration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/src/ios/CDVVibration.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/src/ios/CDVViewController+SplashScreen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/src/ios/CDVViewController+SplashScreen.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-wkwebview-engine/src/ios/CDVWKWebViewEngine.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-wkwebview-engine/src/ios/CDVWKWebViewEngine.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-wkwebview-engine/src/ios/CDVWKWebViewUIDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-wkwebview-engine/src/ios/CDVWKWebViewUIDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVWebViewEngineProtocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVWhitelist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/CDVWhitelist.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/q/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/www/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-camera/www/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-camera/www/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/www/CameraConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-camera/www/CameraConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-camera/www/CameraConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/www/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/www/ios/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-camera/www/ios/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-camera/www/ios/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/www/CameraPopoverOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Cannibals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Cannibals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/css/CannibowlCity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/css/CannibowlCity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/CannibowlCity.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/CannibowlCity.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/CannibowlCity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/CannibowlCity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/CaptureAudioOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/CaptureAudioOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/CaptureAudioOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/CaptureError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/CaptureError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/CaptureError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/CaptureImageOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/CaptureImageOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/CaptureImageOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/CaptureVideoOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/CaptureVideoOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/CaptureVideoOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Collision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Collision.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/www/CompassError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-device-orientation/www/CompassError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-device-orientation/www/CompassError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/www/CompassHeading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-device-orientation/www/CompassHeading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-device-orientation/www/CompassHeading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/ConfigurationData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/www/Connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-network-information/www/Connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-network-information/www/Connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ios/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ios/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ios/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactAddress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactAddress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactAddress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactFieldType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactFieldType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactFieldType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactFindOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactFindOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactFindOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ContactOrganization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ContactOrganization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ContactOrganization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/www/Coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-geolocation/www/Coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-geolocation/www/Coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Cordova/Cordova-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Cordova/Cordova-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Cordova/Cordova-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Cordova/Cordova.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Cordova/Cordova.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/Cordova.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/CordovaPlugin-console/CordovaPlugin-console-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/CordovaPlugin-console/CordovaPlugin-console-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/CordovaPlugin-console/CordovaPlugin-console-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/CordovaPlugin-console/CordovaPlugin-console.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/CordovaPlugin-console/CordovaPlugin-console.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/CordovaPlugin-console.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/DirectoryEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/DirectoryEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/DirectoryReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/DirectoryReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/DirectoryReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/Entry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/Entry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/Entry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/File.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/File.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/File.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/ios/FileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/ios/FileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/ios/FileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/www/FileTransfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file-transfer/www/FileTransfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file-transfer/www/FileTransfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/www/FileTransferError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file-transfer/www/FileTransferError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file-transfer/www/FileTransferError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileUploadOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileUploadOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileUploadResult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileUploadResult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileUploadResult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/FileWriter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/FileWriter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/FileWriter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/Flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/Flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/Flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/GameObjects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/GameObjects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/GettingStarted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/GettingStarted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/www/GlobalizationError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-globalization/www/GlobalizationError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-globalization/www/GlobalizationError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/on-headers/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/HealthHunger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/HealthHunger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Hiding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Hiding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Cordova/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/CordovaPlugin-console/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-camera/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-contacts/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-motion/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-orientation/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file-transfer/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-geolocation/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-globalization/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-inappbrowser/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-media-capture/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-network-information/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-splashscreen/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-statusbar/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-vibration/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-wkwebview-engine/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/on-headers/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/q/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/LocalFileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/LocalFileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/MAINTAINERS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Manifest.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/MediaFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/MediaFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/MediaFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/MediaFileData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/MediaFileData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/MediaFileData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/Metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/Metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/Metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/NSDictionary+CordovaPreferences.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/NSDictionary+CordovaPreferences.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/NSMutableArray+QueueAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/Classes/Public/NSMutableArray+QueueAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/NextLevel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/NextLevel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../Podfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../Podfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTest/Pods-iOSTest.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/Pods-iOSTest.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestTests/Pods-iOSTestTests.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/Pods-iOSTestTests.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests-acknowledgements.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests-acknowledgements.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests-frameworks.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests-resources.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests.debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/Pods-iOSTestUITests/Pods-iOSTestUITests.release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/Pods-iOSTestUITests.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/www/Position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-geolocation/www/Position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-geolocation/www/Position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/www/PositionError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-geolocation/www/PositionError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-geolocation/www/PositionError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/ProgressEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/ProgressEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/ProgressEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-wkwebview-engine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/on-headers/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/q/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file-transfer/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-wkwebview-engine/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/SoundEffects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/SoundEffects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/Text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/Text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/UIImage+CropScaleOrientation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-camera/src/ios/UIImage+CropScaleOrientation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../iOSTest/ViewController2.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/abbrev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-motion/www/accelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-device-motion/www/accelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-device-motion/www/accelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/adm-zip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/array-flatten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/brine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/brine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/browser.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/buffer-concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/lib/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/capture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-media-capture/www/capture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-media-capture/www/capture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/cd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/lib/check_reqs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/chmod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/lib/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/clean" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/codes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device-orientation/www/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-device-orientation/www/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-device-orientation/www/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/confighelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/cordova-js-src/confighelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/confighelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/cordova-js-src/confighelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/www/console-via-logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-console/www/console-via-logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-console/www/console-via-logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/util/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/ios/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-contacts/www/ios/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-contacts/www/ios/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../../iOSTest.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/conversions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-contacts/www/convertUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-camera/cordova-plugin-camera-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-camera/cordova-plugin-camera-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-camera/cordova-plugin-camera-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-camera/cordova-plugin-camera.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-camera/cordova-plugin-camera.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-camera.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-contacts/cordova-plugin-contacts-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-contacts/cordova-plugin-contacts-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-contacts/cordova-plugin-contacts-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-contacts/cordova-plugin-contacts.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-contacts/cordova-plugin-contacts.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-contacts.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device/cordova-plugin-device-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-motion/cordova-plugin-device-motion-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-motion/cordova-plugin-device-motion-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-motion/cordova-plugin-device-motion-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-motion/cordova-plugin-device-motion.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-motion/cordova-plugin-device-motion.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-device-motion.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-orientation/cordova-plugin-device-orientation-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-orientation/cordova-plugin-device-orientation-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-orientation/cordova-plugin-device-orientation-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-orientation/cordova-plugin-device-orientation.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device-orientation/cordova-plugin-device-orientation.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-device-orientation.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device/cordova-plugin-device-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device/cordova-plugin-device-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device/cordova-plugin-device.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-device/cordova-plugin-device.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-device.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file/cordova-plugin-file-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file/cordova-plugin-file-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file-transfer/cordova-plugin-file-transfer-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file-transfer/cordova-plugin-file-transfer-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file-transfer/cordova-plugin-file-transfer-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file-transfer/cordova-plugin-file-transfer.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file-transfer/cordova-plugin-file-transfer.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-file-transfer.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file/cordova-plugin-file-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file/cordova-plugin-file.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-file/cordova-plugin-file.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-file.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-geolocation/cordova-plugin-geolocation-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-geolocation/cordova-plugin-geolocation-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-geolocation/cordova-plugin-geolocation-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-geolocation/cordova-plugin-geolocation.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-geolocation/cordova-plugin-geolocation.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-geolocation.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-globalization/cordova-plugin-globalization-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-globalization/cordova-plugin-globalization-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-globalization/cordova-plugin-globalization-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-globalization/cordova-plugin-globalization.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-globalization/cordova-plugin-globalization.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-globalization.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-inappbrowser/cordova-plugin-inappbrowser-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-inappbrowser/cordova-plugin-inappbrowser-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-inappbrowser/cordova-plugin-inappbrowser-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-inappbrowser/cordova-plugin-inappbrowser.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-inappbrowser/cordova-plugin-inappbrowser.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-inappbrowser.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-media-capture/cordova-plugin-media-capture-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-media-capture/cordova-plugin-media-capture-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-media-capture/cordova-plugin-media-capture-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-media-capture/cordova-plugin-media-capture.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-media-capture/cordova-plugin-media-capture.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-media-capture.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-network-information/cordova-plugin-network-information-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-network-information/cordova-plugin-network-information-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-network-information/cordova-plugin-network-information-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-network-information/cordova-plugin-network-information.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-network-information/cordova-plugin-network-information.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-network-information.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-splashscreen/cordova-plugin-splashscreen-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-splashscreen/cordova-plugin-splashscreen-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-splashscreen/cordova-plugin-splashscreen-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-splashscreen/cordova-plugin-splashscreen.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-splashscreen/cordova-plugin-splashscreen.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-splashscreen.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-statusbar/cordova-plugin-statusbar-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-statusbar/cordova-plugin-statusbar-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-statusbar/cordova-plugin-statusbar-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-statusbar/cordova-plugin-statusbar.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-statusbar/cordova-plugin-statusbar.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-statusbar.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-vibration/cordova-plugin-vibration-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-vibration/cordova-plugin-vibration-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-vibration/cordova-plugin-vibration-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-vibration/cordova-plugin-vibration.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-vibration/cordova-plugin-vibration.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-vibration.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-wkwebview-engine/cordova-plugin-wkwebview-engine-dummy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-wkwebview-engine/cordova-plugin-wkwebview-engine-prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-wkwebview-engine/cordova-plugin-wkwebview-engine-umbrella.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-wkwebview-engine/cordova-plugin-wkwebview-engine.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Target Support Files/cordova-plugin-wkwebview-engine/cordova-plugin-wkwebview-engine.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/cordova-plugin-wkwebview-engine.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Cordova/CordovaLib/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/cordova_plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/cordova_plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/cp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/css-keywords.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/defaults.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/methods/deflater.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/echo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/headers/entryHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/util/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/event-listener-count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/util/fattr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/fileSystemPaths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/fileSystemPaths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/fileSystems-roots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/fileSystems-roots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/fileSystems-roots.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/fileSystems.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/fileSystems.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/fileSystems.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/scripts/generate-docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-geolocation/www/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-geolocation/www/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-geolocation/www/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-globalization/www/globalization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-globalization/www/globalization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-globalization/www/globalization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/grep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-media-capture/www/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-inappbrowser/www/inappbrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/headers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/util/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/on-headers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/methods/inflater.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/browser/isChrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/browser/isChrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/ln.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../CordovaPlugin-console/www/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-console/www/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-console/www/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/ls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/headers/mainHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/make.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/manifest.webapp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/mkdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/mv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/examples/my-program.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-network-information/www/network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-network-information/www/network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-network-information/www/network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/bin/nopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/lib/nopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/build/output.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/compressible/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/on-headers/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/q/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/platform_www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../platforms.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/popd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/phonegap-plugin-push/www/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/phonegap-plugin-push/www/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/pushd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/pwd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/q/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/q/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/requestFileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/requestFileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/requestFileSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-file/www/resolveLocalFileSystemURI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/rm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/scripts/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/sed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/serve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/src/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/shell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/shelljs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/libraries/shelljs_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/bin/shjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-splashscreen/www/splashscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-splashscreen/www/splashscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/tempdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/build/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/nopt/node_modules/abbrev/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/to.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/toEnd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/types.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/src/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/util/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/version.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../cordova-plugin-vibration/www/vibration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/plugins/cordova-plugin-vibration/www/vibration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/plugins/cordova-plugin-vibration/www/vibration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/cordova-serve/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/www/js/wKeyAction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../www/js/wKeyAction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/src/which.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/shelljs/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../Pods.xcodeproj/xcuserdata/alisaprusa.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/zipEntry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../browser/cordova/node_modules/adm-zip/zipFile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../iOSTest/AppDelegate.swift" afterPath="$PROJECT_DIR$/../../../../../iOSTest/AppDelegate.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../iOSTest/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/../../../../../iOSTest/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../iOSTest/ViewController.swift" afterPath="$PROJECT_DIR$/../../../../../iOSTest/ViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../iOSTestTests/iOSTestTests.swift" afterPath="$PROJECT_DIR$/../../../../../iOSTestTests/iOSTestTests.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../iOSTest.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../../../../../iOSTest.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="android.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="android" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Spring2015" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fdf324a-cebd-445d-8ebf-7fd6eca5645c" name="Default" comment="" />
+      <created>1480985998868</created>
+      <option name="number" value="Default" />
+      <updated>1480985998868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="43" width="1400" height="963" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
